@@ -1,4 +1,4 @@
 # hello-world
 hello, world
 
-I am not that Carol Bartz you are looking for.
+I am not the Carol Bartz you are looking for.
